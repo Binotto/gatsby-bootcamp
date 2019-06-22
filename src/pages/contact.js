@@ -4,7 +4,7 @@ const ContactPage = () => {
     return (
         <div>
             <h1>Contact Me</h1>
-            <p>The best way to reach me is via e-mail matheus.binotto@hotmail.com</p>
+            <p>The best way to reach me is via <a href="https://www.linkedin.com/in/matheus-binotto-a51787143/" target="_blank">My Linkedin</a></p>
         </div>
     )
 }
