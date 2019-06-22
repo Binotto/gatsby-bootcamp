@@ -21,6 +21,7 @@
     "typeface-audiowide": "0.0.72"
   },
   "devDependencies": {
+    "env-cmd": "^9.0.3",
     "prettier": "^1.18.2"
   },
   "repository": {
