@@ -3,6 +3,7 @@ import Footer from '../components/footer'
 import Header from '../components/header'
 import '../styles/index.scss'
 import layoutStyles from './layout.module.scss'
+import 'typeface-audiowide'
 
 const Layout = (props) => {
     return (
