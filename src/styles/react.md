@@ -1,5 +1,5 @@
 ---
-title: "The Great Gatsby Bootcamp"
+title: "My Second Post"
 date: "2019-06-22"
 ---
 
